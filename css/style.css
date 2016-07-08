@@ -1,0 +1,34 @@
+body {
+      position: relative; 
+  }
+
+#blue{
+	background-color:#34515B;
+}
+.container-fluid{
+	padding-top:70px;
+	padding-bottom:40px;
+}
+  #section1 {color: #34515B; background-color: #D4E0DE;}
+  #section2 {color: #fff; background-color: #B0CBCD;}
+  #section3 {color: #fff; background-color: #F6B2A1;}
+#social{
+	padding-top:50px;
+}
+p{
+	font-family:Arial, sans-serif;
+	color:#34515B;
+	font-size:18px;
+}
+footer{
+	padding-top:50px;
+	padding-bottom:50px;
+	background-color:#34515B;
+	text-align:center;
+	color:#ffffff;
+	
+}
+
+i{
+	color:#ffffff;
+}
